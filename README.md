@@ -17,4 +17,4 @@ I build web applications and automate business workflows using AI, so teams can 
 
 ## 📫 Let's Connect
 - 📍 Multan, Pakistan
-- 💼 [LinkedIn](www.linkedin.com/in/iamshaher-bano)
+- 💼 [LinkedIn](https://www.linkedin.com/in/iamshaher-bano)
